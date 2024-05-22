@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**iashorokhov/iashorokhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name's Ilia Shorokhov. I am Data Scientist, Team Leader and Mentor. 
 
-Here are some ideas to get you started:
+## About me
+- Working at Avito
+- 5 years in IT
+- 3 years as Team Leader
+- 1 year in Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+### Programming Languages
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
+
+
+### Libraries and Frameworks
+- Pandas
+- Numpy
+- Scikit-Learn
+- Matplotlib
+- PyTorch
+- Tensorflow
+- Keras
+- Spark
+- PostgreSQL
+
+## Contact Me
+- [Email](mailto:iliashorokhov@yandex.ru)
+- [Telegram](https://t.me/iashorokhov)
+- [GitHub](https://github.com/iashorokhov)
+
