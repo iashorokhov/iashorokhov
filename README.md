@@ -15,15 +15,15 @@ My name's Ilia Shorokhov. I am Data Scientist, Team Leader and Mentor.
 
 
 ### Libraries and Frameworks
-![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
-![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
-![Scikit-Learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
-![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png)
-![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png)
-![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
-![Keras](https://img.icons8.com/color/48/000000/keras.png)
-![Apache Spark](https://img.icons8.com/color/48/000000/apache-spark.png)
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+<i class="fas fa-chart-line fa-2x"></i> Pandas
+<i class="fas fa-layer-group fa-2x"></i> NumPy
+<i class="fas fa-robot fa-2x"></i> Scikit-Learn
+<i class="fas fa-chart-bar fa-2x"></i> Matplotlib
+<i class="fas fa-cogs fa-2x"></i> PyTorch
+<i class="fas fa-brain fa-2x"></i> TensorFlow
+<i class="fas fa-network-wired fa-2x"></i> Keras
+<i class="fas fa-stream fa-2x"></i> Apache Spark
+<i class="fas fa-database fa-2x"></i> PostgreSQL
 
 ## Contact Me
 - [Email](mailto:iliashorokhov@yandex.ru)
