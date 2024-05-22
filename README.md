@@ -15,8 +15,7 @@ My name's Ilia Shorokhov. I am Data Scientist, Team Leader and Mentor.
 
 
 ### Libraries and Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" /> 
-<p>Pandas</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" /> <p>Pandas</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" height="32" /> 
 <p>NumPy</p>
 <img src="png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" width="32" height="32" /> 
