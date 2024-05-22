@@ -15,15 +15,15 @@ My name's Ilia Shorokhov. I am Data Scientist, Team Leader and Mentor.
 
 
 ### Libraries and Frameworks
-- Pandas
-- Numpy
-- Scikit-Learn
-- Matplotlib
-- PyTorch
-- Tensorflow
-- Keras
-- Spark
-- PostgreSQL
+![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
+![NumPy](https://img.icons8.com/color/48/000000/numpy.png)
+![Scikit-Learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
+![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png)
+![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png)
+![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+![Keras](https://img.icons8.com/color/48/000000/keras.png)
+![Apache Spark](https://img.icons8.com/color/48/000000/apache-spark.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
 
 ## Contact Me
 - [Email](mailto:iliashorokhov@yandex.ru)
