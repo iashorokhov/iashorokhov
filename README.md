@@ -14,7 +14,7 @@ My name's Ilia Shorokhov. I am Data Scientist, Team Leader and Mentor.
 ![SQL](https://img.icons8.com/color/48/000000/sql.png) 
 
 ### Libraries and Frameworks
-![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
+![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) width="32" height="32"
 
 ### Libraries and Frameworks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" />
