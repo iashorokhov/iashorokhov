@@ -10,8 +10,8 @@ My name's Ilia Shorokhov. I am Data Scientist, Team Leader and Mentor.
 
 ## Skills
 ### Programming Languages
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![Python](https://img.icons8.com/color/48/000000/python.png) Python
+![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
 
 
 ### Libraries and Frameworks
