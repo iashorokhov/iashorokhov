@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi! My name's Ilia Shorokhov. I am Data Scientist, Team Leader and Mentor. 
+My name's Ilia Shorokhov. I am Data Scientist, Team Leader and Mentor. 
 
 ## About me
 - Working at Avito
