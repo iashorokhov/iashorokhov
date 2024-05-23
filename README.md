@@ -10,7 +10,7 @@ My name's Ilia Shorokhov. I am Data Scientist, Team Leader and Mentor.
 
 ### Portfolio and projects
 
-- Here's my [Portfolio](https://github.com/iashorokhov/Completed-ML-projects) where you can find some of the completed ML projects
+- Here's my [Portfolio](https://github.com/iashorokhov/Completed-ML-projects) where you can find some of my completed ML projects
 
 ## Skills
 ### Programming Languages
