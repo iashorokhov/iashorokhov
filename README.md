@@ -8,6 +8,10 @@ My name's Ilia Shorokhov. I am Data Scientist, Team Leader and Mentor.
 - 3 years as Team Leader
 - 1 year in Data Science
 
+### Portfolio and projects
+
+- Here's my [Portfolio](https://github.com/iashorokhov/Completed-ML-projects) where you can find some of the completed ML projects
+
 ## Skills
 ### Programming Languages
 ![Python](https://img.icons8.com/color/48/000000/python.png)
